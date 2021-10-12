@@ -6,4 +6,4 @@
  - Maximum of two numbers in Python
  - Python Program for simple interest
  - Python Program for factorial of a number
- 
+ - python is easy language
